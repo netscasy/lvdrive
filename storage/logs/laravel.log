@@ -1,0 +1,75 @@
+[2019-08-08 08:30:28] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:30:33] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:34:39] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:34:41] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:35:24] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:35:25] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:35:35] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:41:05] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:41:08] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:41:23] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:41:24] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:41:40] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:44:10] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:44:11] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:44:24] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 08:44:28] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:09:43] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:09:46] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:10:20] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:13:34] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:13:36] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:13:44] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:14:01] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:14:12] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:21:58] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:21:59] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:22:13] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:22:15] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:31:35] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:31:38] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:34:45] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:35:58] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:36:02] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:36:04] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-08 09:36:37] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-09 01:00:30] local.INFO: I need to continue after AbcException from xyz.  
+[2019-08-09 01:18:53] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 05:44:21] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 05:44:22] local.INFO: welcome  
+[2019-09-25 05:44:23] local.INFO: Caught exception from / route  
+[2019-09-25 05:49:12] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 05:49:32] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 05:52:18] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 05:52:26] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 05:52:42] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:18:09] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:18:10] local.INFO: abc  
+[2019-09-25 08:18:10] local.INFO: I need to continue after AbcException from abc.  
+[2019-09-25 08:19:23] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:23:11] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:24:29] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:24:37] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:27:03] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:27:17] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:38:54] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:39:11] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:39:11] local.ERROR: The "---resource" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"---resource\" option does not exist. at C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\symfony\\console\\Input\\ArgvInput.php:218)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\symfony\\console\\Input\\ArgvInput.php(154): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption('-resource', NULL)
+#1 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\symfony\\console\\Input\\ArgvInput.php(82): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption('---resource')
+#2 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\symfony\\console\\Input\\Input.php(55): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#3 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\symfony\\console\\Command\\Command.php(214): Symfony\\Component\\Console\\Input\\Input->bind(Object(Symfony\\Component\\Console\\Input\\InputDefinition))
+#4 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(170): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#5 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\symfony\\console\\Application.php(921): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\symfony\\console\\Application.php(273): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Routing\\Console\\ControllerMakeCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\symfony\\console\\Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 C:\\xampp\\htdocs\\dev\\lvdrive\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 C:\\xampp\\htdocs\\dev\\lvdrive\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#11 {main}
+"} 
+[2019-09-25 08:39:19] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:39:31] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:39:41] local.INFO: I need to continue after AbcException from xyz.  
+[2019-09-25 08:39:50] local.INFO: I need to continue after AbcException from xyz.  
